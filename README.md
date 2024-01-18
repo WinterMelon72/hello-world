@@ -1,3 +1,3 @@
 # hello-world
 
-Hello, I'm WinterMelon72. I love programming.
+Hi, I'm WinterMelon72.
